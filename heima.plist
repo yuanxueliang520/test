@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://120.26.199.175:18081/app/download/xiaoheima_test_1.0.0-2.ipa</string>
+					<string>https://120.26.199.175:8082/xiaoheima_test_1.0.1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://120.26.199.175:18081/app/download/1.png</string>
+					<string>https://120.26.199.175:8082/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://120.26.199.175:18081/app/download/1.png</string>
+					<string>https://120.26.199.175:8082/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.XiaoHeiMa.mafeng</string>
+				<string>com.xiaoheima.mafeng</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>xiaoheima_test_1.0.0</string>
+				<string>小黑马</string>
 			</dict>
 		</dict>
 	</array>
